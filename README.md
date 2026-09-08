@@ -1,4 +1,4 @@
-# AGPS-Pyscore
+# Pyscore
 
 ## 概要
 本システムは、API経由でリクエストされた申込レコードに対してスコアを予測し、予測結果をレスポンスします。\
@@ -56,8 +56,8 @@ class PyscoreSettings(BaseSettings):
 下記は`agps_pyscore_x.x.tar.gz`解凍後の構成です。
 
 ```
-AGPS_pyscore
-├── AGPS_pyscore
+reference-model
+├── app
 │   ├── main.py
 │   ├── schema.py
 │   ├── settings.py - 設定ファイル
