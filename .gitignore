@@ -1,0 +1,13 @@
+/.pytest_cache
+/.mypy_cache
+/.venv
+/.vscode
+/models
+/data
+/doc
+/dist
+/wheels
+/AGPS_pyscore/__pycache__
+/AGPS_pyscore/scoring/__pycache__
+/AGPS_pyscore/router/__pycache__
+/tests/__pycache__
